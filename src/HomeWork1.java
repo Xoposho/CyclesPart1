@@ -15,4 +15,4 @@ public class HomeWork1 {
             System.out.println(i);
     }
 }
-//
+//by Igor

@@ -21,4 +21,4 @@ public class HomeWork3 {
                 }
         }
 }
-//
+//by Igor
